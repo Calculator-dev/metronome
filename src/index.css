@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFA900;
+}
+
+header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  font-size: 20px;
+  background: #FF7600;
+  color: white;
+  box-shadow: 10px 10px 20px -15px #2B2E4A;
+}
+
+
+footer {
+    width: 100%;
+    position: fixed;
+  bottom: 0;
+  height: 18px;
+  font-size: 10px;
+  background: #FF7600;
+  padding-top: 4px;
+  color: white;
+  box-shadow: 0px 0 10px -5px black;
+}
+
+.metronome {
+  margin-top: 160px;
+}
+
+button {
+  width: 220px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #CD113B;
+  color: white;
+  background-color: #CD113B;
+  margin-top: 20px;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+button:hover {
+  color: white;
+  background-color: #91113B;
+  border: none;
+  transition: 0.5s;
+  border: 2px solid #91113B;
+}
+
+.bpm {
+  color: white;
+  font-size: 36px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+input {
+  color: white;
+  margin-bottom: 30px;
+  width: 500px;
+}
+
+@media (max-width: 480px) {
+  input {
+    width: 300px;
+  }
+}
