@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Calculator-dev/metronome/static/css/main.644edc81.chunk.css",
-    "main.js": "/Calculator-dev/metronome/static/js/main.67c66f13.chunk.js",
-    "main.js.map": "/Calculator-dev/metronome/static/js/main.67c66f13.chunk.js.map",
-    "runtime-main.js": "/Calculator-dev/metronome/static/js/runtime-main.44acd5d7.js",
-    "runtime-main.js.map": "/Calculator-dev/metronome/static/js/runtime-main.44acd5d7.js.map",
-    "static/js/2.a1447c1b.chunk.js": "/Calculator-dev/metronome/static/js/2.a1447c1b.chunk.js",
-    "static/js/2.a1447c1b.chunk.js.map": "/Calculator-dev/metronome/static/js/2.a1447c1b.chunk.js.map",
-    "index.html": "/Calculator-dev/metronome/index.html",
-    "static/css/main.644edc81.chunk.css.map": "/Calculator-dev/metronome/static/css/main.644edc81.chunk.css.map",
-    "static/js/2.a1447c1b.chunk.js.LICENSE.txt": "/Calculator-dev/metronome/static/js/2.a1447c1b.chunk.js.LICENSE.txt",
-    "static/media/click1.07cda4b8.wav": "/Calculator-dev/metronome/static/media/click1.07cda4b8.wav"
+    "main.css": "/metronome/static/css/main.644edc81.chunk.css",
+    "main.js": "/metronome/static/js/main.67c66f13.chunk.js",
+    "main.js.map": "/metronome/static/js/main.67c66f13.chunk.js.map",
+    "runtime-main.js": "/metronome/static/js/runtime-main.b577f421.js",
+    "runtime-main.js.map": "/metronome/static/js/runtime-main.b577f421.js.map",
+    "static/js/2.a1447c1b.chunk.js": "/metronome/static/js/2.a1447c1b.chunk.js",
+    "static/js/2.a1447c1b.chunk.js.map": "/metronome/static/js/2.a1447c1b.chunk.js.map",
+    "index.html": "/metronome/index.html",
+    "static/css/main.644edc81.chunk.css.map": "/metronome/static/css/main.644edc81.chunk.css.map",
+    "static/js/2.a1447c1b.chunk.js.LICENSE.txt": "/metronome/static/js/2.a1447c1b.chunk.js.LICENSE.txt",
+    "static/media/click1.07cda4b8.wav": "/metronome/static/media/click1.07cda4b8.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.44acd5d7.js",
+    "static/js/runtime-main.b577f421.js",
     "static/js/2.a1447c1b.chunk.js",
     "static/css/main.644edc81.chunk.css",
     "static/js/main.67c66f13.chunk.js"
